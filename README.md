@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning Spring Security and Docker  
   
 
-- ✉️ Reach me at alanbrandan@hotmail.com  
+- ✉️ Reach me at alanbrandan17@hotmail.com  
   
 
 <div align="center">
