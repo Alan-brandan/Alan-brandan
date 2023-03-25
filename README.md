@@ -11,13 +11,14 @@
   
 
 # <div align="center">Hi 👋, I'm Alan</div>  
-  
+
 
 ### <div align="center">Backend developer / Game developer👨‍💻🎮 based on Argentina</div>  
+<br/>  
   
+- 🌱 I’m currently learning **Spring Security** and **Docker**
 
-- 🌱 I’m currently learning Spring Security and Docker  
-  
+- 👩‍💻 I'm currently working on **My Portfolio** and a **Cinema management Rest api**
 
 - ✉️ Reach me at alanbrandan17@hotmail.com  
   
@@ -67,7 +68,7 @@
 ### Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/wODD8fp.png" alt="Unity" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
