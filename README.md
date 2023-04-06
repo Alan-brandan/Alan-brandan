@@ -16,9 +16,9 @@
 ### <div align="center">Backend developer / Game developer👨‍💻🎮 based on Argentina</div>  
 <br/>  
   
-- 🌱 I’m currently learning **Spring Security** and **Docker**
+- 🌱 I’m currently learning **AWS** and **Angular**
 
-- 👩‍💻 I'm currently working on **My Portfolio** and a **Cinema management Rest api**
+- 👩‍💻 I'm currently working on **My Portfolio**
 
 - ✉️ Reach me at alanbrandan17@hotmail.com  
   
