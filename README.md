@@ -16,6 +16,10 @@
 ### <div align="center">Backend developer / Game developer👨‍💻🎮 based on Argentina</div>  
 <br/>  
   
+ <p align = "left" > 
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5">
+
+  
 - 🌱 I’m currently learning **AWS** and **Angular**
 
 - 👩‍💻 I'm currently working on **My Portfolio**
@@ -28,7 +32,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+  </p>
 
 <br/>  
 
