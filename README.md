@@ -17,10 +17,10 @@
 <br/>  
   
  <p align = "left" > 
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5">
+<img align = "right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5">
 
   
-- 🌱 I’m currently learning **AWS** and **Angular**
+- 🌱 I’m currently learning **Microservices** and **Angular**
 
 - 👩‍💻 I'm currently working on **My Portfolio**
 
