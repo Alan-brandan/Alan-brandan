@@ -19,10 +19,11 @@
  <p align = "left" > 
 <img align = "right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5">
 
+- 🚀 Check out my <a href="https://alan-brandan.vercel.app/" target="_blank"> Personal Portfolio </a>  
   
-- 🌱 I’m currently learning **Microservices** and **Angular**
+- 🌱 I’m currently learning **Spring Security** and **Android development**
 
-- 👩‍💻 I'm currently working on **My Portfolio**
+- 👩‍💻 I'm currently working on **an E-commerce website for No-Country**
 
 - ✉️ Reach me at alanbrandan17@hotmail.com  
   
@@ -73,7 +74,8 @@
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/wODD8fp.png" alt="Unity" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a> 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>
