@@ -25,7 +25,7 @@
 
 - 👩‍💻 I'm currently working on **an E-commerce website for No-Country**
 
-- ✉️ Reach me at alanbrandan17@hotmail.com  
+- ✉️ Reach me at alan.brandan@yahoo.com 
   
 
 <div align="center">
