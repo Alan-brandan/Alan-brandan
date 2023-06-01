@@ -13,7 +13,7 @@
 # <div align="center">Hi 👋, I'm Alan</div>  
 
 
-### <div align="center">Backend developer / Game developer👨‍💻🎮 based on Argentina</div>  
+### <div align="center">Fullstack developer / Game developer👨‍💻🎮 based on Argentina</div>  
 <br/>  
   
  <p align = "left" > 
