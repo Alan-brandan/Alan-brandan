@@ -21,7 +21,7 @@
 
 - 🚀 Check out my <a href="https://alan-brandan.vercel.app/" target="_blank"> Personal Portfolio </a>  
   
-- 🌱 I’m currently learning **Spring Security** and **Android development**
+- 🌱 I’m currently learning **Spring Security**
 
 - 👩‍💻 I'm currently working on **an E-commerce website for No-Country**
 
