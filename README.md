@@ -17,7 +17,7 @@
 <br/>  
   
  <p align = "left" > 
-<img align = "right" src="http://github-stats-five-sepia.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&hide=Shaderlab,hlsl">
+<img align = "right" src="http://github-stats-five-sepia.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&hide=Shaderlab,hlsl,css,html,mathematica,shell">
 
 - 🚀 Check out my <a href="https://alan-brandan.vercel.app/" target="_blank"> Personal Portfolio </a>  
   
