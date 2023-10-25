@@ -20,10 +20,8 @@
 <img align = "right" src="http://github-stats-five-sepia.vercel.app/api/top-langs/?username=Alan-brandan&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&hide=Shaderlab,hlsl,css,html,mathematica,shell">
 
 - 🚀 Check out my <a href="https://alan-brandan.vercel.app/" target="_blank"> Personal Portfolio </a>  
-  
-- 🌱 I’m currently learning **Spring Security**
 
-- 👩‍💻 I'm currently working on **an E-commerce website for No-Country**
+- 👩‍💻 I'm currently working as a Game Development for an educational mobile game for Clinic of hope
 
 - ✉️ Reach me at alanbrandan17@hotmail.com 
   
